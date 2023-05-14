@@ -80,7 +80,7 @@ function Home() {
           <p>Sergeli uchun mutlaqo yangi darajadagi qulaylikdir. 110 000 m2 keng maydon zamonaviy, xavfsiz va nafis majmuaga va katta xarid qilishxiyoboniga qulay tarzda mos keladi. “Bu” majmuasi megapolisning haqiqiy epitsentridir: u hashamatli hayot, samarali mehnat va yaxshi dam olish uchun barcha infratuzilmani taqdim etadi. Yuqori toifadagi kvartiralar, shinam kvartiralar, bolalar maydonchasi, dam olish maskani, betakror landshaft, avtoturargoh va toza havoga ega katta park va ikkita tosh uydan iborat “SHOXSAROY RESIDENCE” obodonlashtirilgan hudud.</p>
         </div>
         <div data-aos="flip-right" data-aos-duration="1500" className="home__banner_5_half__1">
-          <img src={img3} alt=""/>
+          <img src={img3} alt=""/>5
         </div>
       </div>
     </div>

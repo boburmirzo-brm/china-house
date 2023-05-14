@@ -48,6 +48,7 @@ function Contact() {
           <div className="cloc__about">
             <div className="csidebar__logo">
               <h1 className="cs__title">SHANGHAi</h1>
+              <h3>shanghai</h3>
               <h4 className="cs__task">–––– RESIDENCE ––––</h4>
               <h5 className="cs__address">YASHNOBOD TUMANI</h5>
             </div>
@@ -60,6 +61,7 @@ function Contact() {
             <br />
             <br />
             <h4>Посмотреть на карте</h4>
+            
           </div>
 
           <div className="cloc__about">
@@ -93,7 +95,7 @@ function Contact() {
             <h4 className="ccard__job">{item.job}</h4>
 
             <button className="ccard__btn">Xabar yozish uchun</button>
-            
+
             <h4 className="ccard__num">
               <a href={`tel:+998${item.num}`}> +998 <span>{item.num}</span> </a>
             </h4>
@@ -101,6 +103,7 @@ function Contact() {
         ))}
       </div>
     </div>
+    
   );
 }
 
