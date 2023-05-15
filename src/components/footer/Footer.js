@@ -24,7 +24,7 @@ function Footer() {
               <li className="for__con__cr__ul__li"><img className="for__con__cr__ul__li__img" src={imgfooxar} alt="" /></li>
             </ul>
           </div>
-          {/* <div className="for__con__cards">
+          <div className="for__con__cards">
           <ul className="for__con__cr__ul">
               <h4 className="for__con__cr__ul__title">Havolalarimiz</h4>
               <li className="for__con__cr__ul__li">Biz bilan aloqa</li>
@@ -35,7 +35,7 @@ function Footer() {
               <li className="for__con__cr__ul__li">Kmachiliklarimiz</li>
               <li className="for__con__cr__ul__li">Hamkorlik uchun</li>
             </ul>
-          </div> */}
+          </div>
           <div className="for__con__cards">
           <h4 className="for__con__cr__ul__title">Biz haqimizda</h4>
           <p className="for__con__cr__p">Biz bilan birga boling va aslo yengilmaysiz</p>
@@ -50,19 +50,19 @@ function Footer() {
         <div className="foter__bottom">
             <h4 className='for__bot__con__tit'>Copyright © 2014 Aaika.com. All rights reserved. Terms of Use | Privacy Policy</h4>
             <div className="ikons">
-              <a href="https://t.me/VOLK_2o7">
+              <a href="https://t.me/ODINOKIY_VOLK_070">
               <BsFacebook className='iko__icons'/>
               </a>
-              <a href="https://t.me/VOLK_2o7">
+              <a href="https://t.me/ODINOKIY_VOLK_070">
               <AiFillTwitterCircle className='iko__icons'/>
               </a>
-              <a href="https://t.me/VOLK_2o7">
+              <a href="https://t.me/ODINOKIY_VOLK_070">
               <SiYoutubemusic className='iko__icons'/>
               </a>
-              <a href="https://t.me/VOLK_2o7">
+              <a href="https://t.me/ODINOKIY_VOLK_070">
               <TiSocialInstagramCircular className='iko__icons'/>
               </a>
-              <a href="https://t.me/VOLK_2o7">
+              <a href="https://t.me/ODINOKIY_VOLK_070">
               <BsTelegram className='iko__icons'/>
               </a>
             </div>
